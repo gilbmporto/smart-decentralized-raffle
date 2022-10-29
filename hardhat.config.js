@@ -38,7 +38,7 @@ module.exports = {
     deployer: {
       default: 0,
     },
-    user: {
+    player: {
       default: 1,
     },
     goerli: {
@@ -52,4 +52,7 @@ module.exports = {
     currency: "USD",
     coinmarketcap: COINMARKETCAP_API_KEY,
   },
+  mocha: {
+    timeout: 300000,
+  }
 }
