@@ -2,7 +2,7 @@
 
 This a contract that simulates a decentralized and totally automated lottery!
 
-Soon, I'll be posting here the front-end app so everyone (that has a wallet) can interact with this contract.
+[Access this dApp here!](https://little-block-1508.on.fleek.co)
 
 Try running some of the following tasks:
 
